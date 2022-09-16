@@ -1,0 +1,27 @@
+body {
+    background-color: rgba(243, 234, 198, 0.76); background-image: linear-gradient(to right, rgb(244, 247, 248), rgb(223, 198, 223));
+}
+.datatable {
+    padding-left: 1cm;  
+}
+h1 {
+    margin-top: -1.2cm; margin-bottom: -0.2cm;
+}
+hr {
+    height: 0.05cm; background: grey;
+}
+h2 {
+    margin-top: -0.2cm; margin-bottom: -0.2cm; color: rgb(7, 128, 165);
+}
+.corecompetencies {
+    margin-top: 0.7cm;
+}
+.keyaccom {
+    margin-top: 0.7cm;
+}
+.education {
+    margin-top: 0.9cm;
+}
+.obafemipadding {
+    padding-right: 17cm; padding-bottom: 1cm;
+}
